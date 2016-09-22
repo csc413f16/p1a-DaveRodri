@@ -1,8 +1,10 @@
-Name:
+Name: David Rodriguez
 
-Compilation and Run Successful:
+Compilation and Run Successful: Emulated the app and it was a hello world app that accepted
+an input and told me what i entered. I ran main activity test and 1 test was passed. the build
+and test run were successful
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: 1 test ran and passed.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
